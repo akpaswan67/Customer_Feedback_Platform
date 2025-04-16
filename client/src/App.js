@@ -4,6 +4,7 @@ import { FeedbackProvider } from "./contexts/FeedbackContext";
 import LoginPage from "./pages/LoginPage";
 import FeedbackForm from "./pages/FeedbackForm";
 import FeedbackDisplay from "./pages/FeedbackDisplay";
+import './index.css';
 
 function App() {
   return (

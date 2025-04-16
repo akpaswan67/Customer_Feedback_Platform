@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
-import { useFeedback } from "../contexts/FeedbackContext"; // Import FeedbackContext
+import { useFeedback } from "../contexts/FeedbackContext"; 
 
 const categories = ["Product Features", "Product Pricing", "Product Usability"];
 
